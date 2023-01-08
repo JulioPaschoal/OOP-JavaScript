@@ -1,2 +1,10 @@
-# Guia-de-Perguntas-e-Resposta-
-Desenvolvendo um Guia de pergunta e resposta e utilizando a tecnologia NodeJs, Express, Mysql, Sequelize e BootStrap
+# Curso de OOP com JavaScript
+```
+Modulos do Curso
+
+- Objetos
+- Exercios sobre Objetos
+- Teoria de programação Orientada a Objetos
+
+```
+
